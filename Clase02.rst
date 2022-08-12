@@ -50,7 +50,7 @@ Creación de entorno virtual
 	# Para crear un entorno virtual, creamos una carpeta donde se estarán todos los entornos virtuales.
 	# Creamos por ejemplo la carpeta -> C:\Cosas\2022\PIII2022\EntornosVirtuales
 
-	cd C:\Cosas\2021\PIII2021\EntornosVirtuales  # Accedemos a la carpeta
+	cd C:\Cosas\2022\PIII2022\EntornosVirtuales  # Accedemos a la carpeta
 
 	virtualenv entorno01  # Creamos un entorno virtual llamado entorno01
 
@@ -67,7 +67,7 @@ Creación de entorno virtual
 
 	deactivate  # Desactivamos el entorno virtual 
 	
-	# Para borrar el entorno virtual hay que borrar la carpeta donde se creó -> C:\Cosas\2021\PIII2021\EntornosVirtuales\entorno01 
+	# Para borrar el entorno virtual hay que borrar la carpeta donde se creó -> C:\Cosas\2022\PIII2022\EntornosVirtuales\entorno01 
 
 	# Si desea actualizar la versión de la herramienta pip, ejecutar lo siguiente:
 	python.exe -m pip install --upgrade pip
