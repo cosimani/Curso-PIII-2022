@@ -125,18 +125,25 @@ Biblioteca matplotlib
 
 
 
-
-
 Entregable 03
 =============
 
 - Punto de partida: Entorno virtual creado y usando Spyder o Sublime Text para escribir el código fuente
-- Considere la siguiente exponencial: ``y = np.exp( np.sin( n ) )``
+- Considere la siguiente función: ``y = np.cos( n ) )``
 - Es una secuencia, es decir, una señal discreta, en función de ``n``.
-- Publique los primeros 5 valores positivos que toma ``y`` a partir del cero inclusive.
-- Ahora, considerar una señal senoidal de 10.000 Hz con amplitud de -5 a 5
-- Muestrearla a 50.000 samples por segundos y codificar a 12 bits 
-- Publicar las primeras 100 muestras 
+- Publique los primeros 50 valores que toma ``y`` modificando a cero los que son menores a cero.
+- Ayudarse con este código:
+
+.. code-block:: python
+
+	y = [ 2, 3, 4, 5, 6, 7 ]
+	r = [ 0, 0, 1, 1, 0, 1 ]
+
+	res = np.array( [ 0 if r[ i ] == 0 else a for i, a in enumerate( y ) ] )
+	#=> [ 0, 0, 4, 5, 0, 7 ]
+
+- Realizar otro gráfico con una secuencia senoidal que tenga 12 muestras por ciclo.
+
 - Entrar al siguiente `link para ver el registro de los entregables <https://docs.google.com/spreadsheets/d/1VoiVIgvt3YoovQd4rFNI_tZY8dY8n2t-qkV3o7WgaOY/edit?usp=sharing>`_ 
 
 
