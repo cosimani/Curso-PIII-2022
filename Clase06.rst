@@ -83,7 +83,7 @@ Cuadernos de código y herramientas
 Entregable 04
 =============
 
-- Considerar una señal continua senoidal de 1.000 Hz con amplitud de -5 a 5. Graficar esta señal continua.
+- Considerar una señal continua senoidal de 1.000 Hz con amplitud de -5 a 5. Graficar sólo 100 ms de esta señal continua.
 - Muestrearla a 50.000 samples por segundos. Graficar las primeras 100 muestras sin cuantificar.
 - Graficar estas 100 muestras de la secuencia cuantificada considerando un ADC de 12 bits.
 - Mostrar estas 3 gráficas en un sólo ploteo.
