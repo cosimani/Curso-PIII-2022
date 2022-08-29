@@ -83,9 +83,9 @@ Cuadernos de código y herramientas
 Entregable 04
 =============
 
-- Considerar una señal continua senoidal de 1.000 Hz con amplitud de -5 a 5. Graficar sólo 100 ms de esta señal continua.
-- Muestrearla a 50.000 samples por segundos. Graficar las primeras 100 muestras sin cuantificar.
-- Graficar estas 100 muestras de la secuencia cuantificada considerando un ADC de 12 bits.
+- Considerar una señal continua senoidal de 1 kHz con amplitud de -5 a 5. Graficar sólo 10 ms de esta señal continua.
+- Muestrearla a 50.000 samples por segundos. Graficar las primeras 50 muestras sin cuantificar.
+- Graficar estas 50 muestras de la secuencia cuantificada considerando un ADC de 12 bits.
 - Mostrar estas 3 gráficas en un sólo ploteo.
 - Entrar al siguiente `link para ver el registro de los entregables <https://docs.google.com/spreadsheets/d/1VoiVIgvt3YoovQd4rFNI_tZY8dY8n2t-qkV3o7WgaOY/edit?usp=sharing>`_ 
 
