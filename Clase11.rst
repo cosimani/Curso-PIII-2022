@@ -243,6 +243,8 @@ Entregable 08
 - Alguna info que puede servir: `https://www.tensorflow.org/io/tutorials/audio <https://www.tensorflow.org/io/tutorials/audio>`_ 
 - Aquí otra info: `https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.wavfile.read.html <https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.wavfile.read.html>`_ 
 - Si desea descarga un archivo WAV, puede `extraerlo desde un video en Youtube <https://loader.to/es16/youtube-wav-converter.html>`_ .
+- Averiguar los bits del ADC, es decir, en cuántos bits está codificada cada muestra.
+- Reproducir el archivo .wav
 - Entrar al siguiente `link para ver el registro de los entregables <https://docs.google.com/spreadsheets/d/1VoiVIgvt3YoovQd4rFNI_tZY8dY8n2t-qkV3o7WgaOY/edit?usp=sharing>`_ 
 
 
