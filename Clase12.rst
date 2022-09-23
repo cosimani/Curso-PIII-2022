@@ -68,7 +68,7 @@ Clase 12 - PIII 2022
 Entregable 09
 =============
 
-- Acercar el aspecto a la siguiente gráfica:
+- Acercar el aspecto a la siguiente gráfica. Es decir, adornar con las leyendas, ejes de coordenadas, etc.
 
 .. figure:: images/filtro_sinc_plot.png
 
