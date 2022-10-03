@@ -39,10 +39,10 @@ Secuencia extendida
 Entregable 11
 =============
 
-- Lograr la secuencia extendida mostrada anteriormente.
+- **1-** Lograr la secuencia extendida mostrada anteriormente.
 
-- Realizar el diagrama ojo para PAM4
-- Ampliar la gráfica del diagrama ojo para visualizarla más cercana a la siguiente imagen:
+- **2-** Realizar el diagrama ojo para PAM4
+- **3-** Ampliar la gráfica del diagrama ojo para visualizarla más cercana a la siguiente imagen:
 
 .. figure:: images/ojo_parte7.png
 
