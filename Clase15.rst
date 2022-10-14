@@ -49,9 +49,9 @@ Exponential Moving Average Filter
 Ejemplos con distintos valores de factor de suavizado
 -----------------------------------------------------
 
-.. figure:: images/alpha_01.png
+.. figure:: images/ema_alpha_01.png
 
-.. figure:: images/alpha_02.png
+.. figure:: images/ema_alpha_02.png
 
 - Se llama exponencial porque el factor de ponderación aplicado a las entradas pasadas disminuye exponencialmente. Lo podemos visualizar sustituyendo las salidas anteriores.
 
