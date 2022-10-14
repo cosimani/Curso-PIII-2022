@@ -68,7 +68,8 @@ Entregable 12
 	- Capturar con el micrófono algunos segundos.
 	- Definir una función en Python que aplique este filtro de media móvil exponencial.
 	- Suavizar la señal con un factor de 0.6, 0.2 y 0.05 y visualizar el resultado.
-	- Realizar un análisis del espectro de frecuencias. Comente algunas conclusiones.
+	- Realizar un análisis del espectro de frecuencias.
+	- Plotear la señal original y la filtrada superpuestas para notar el suavizado.
 
 - En el siguiente `link el registro de los entregables <https://docs.google.com/spreadsheets/d/1VoiVIgvt3YoovQd4rFNI_tZY8dY8n2t-qkV3o7WgaOY/edit?usp=sharing>`_ 
 
