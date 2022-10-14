@@ -58,7 +58,7 @@ Ejemplos con distintos valores de factor de suavizado
 .. figure:: images/sumatoria_ema.png
 
 
-Entregable 10
+Entregable 12
 =============
 
 - Parte 1
