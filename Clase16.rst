@@ -51,9 +51,7 @@ Guía para creación de GUI
 .. code-block:: bash 
 
 	cd C:\Cosas\EntornosVirtuales
-	mkdir PIII_con_GUI
-	cd PIII_con_GUI
-
+	
 - Creación y habilitación del entorno virtual
 
 .. code-block:: bash 
@@ -176,15 +174,19 @@ Guía para creación de GUI
 	    sys.exit( app.exec_() )
 
 
+- El código anterior lo almacenamos en un archivo ventana.py y debe estar en la misma carpeta que el archivo panel.ui que es la interfaz creada con QtDesigner. 
+- No es necesario que estos archivos se encuentren en la carpeta donde fue creado el entorno virtual (y es recomendable que no estén allí).
+- Para ejecutar la aplicación hacemos:
 
+.. code-block:: bash 
 
+	python C:\Cosas\PIII\Codigos\GUI\ventana.py
 
-
-Entregable Clase 18
-===================
+Entregable 13
+=============
 
 - Diseñar la interfaz anterior y ejecutar la aplicación.
-- Agregar las funciones de generación de tonos y graficar la suma de varios tonos y reproducirlos.
+- Agrupar las distintas funciones que se vienen usando y almacenarlas a todas en un único archivo .py
 - En el siguiente `link el registro de los entregables <https://docs.google.com/spreadsheets/d/1VoiVIgvt3YoovQd4rFNI_tZY8dY8n2t-qkV3o7WgaOY/edit?usp=sharing>`_ 
 
 
