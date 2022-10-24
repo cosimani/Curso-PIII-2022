@@ -107,7 +107,7 @@ Registros para configuración
 		- INTCON1 contiene el control y los indicadores de estado. 
 		- INTCON2 controla la señal de petición de interrupción externa y el uso de la tabla AIVT.
 
-.. figure:: images/clase15_registro_interrupciones.png
+.. figure:: images/registro_interrupciones.png
    :target: http://ww1.microchip.com/downloads/en/devicedoc/70138c.pdf
 
 
