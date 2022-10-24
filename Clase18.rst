@@ -45,7 +45,7 @@ Softwares
 *Proteus*
 	- Conjunto de programas para diseño y simulación
 	- Desarrollado por Labcenter Electronics (http://www.labcenter.com)
-	- Versión actual: 8.7
+	- Versión actual: 8.15
 	- Versión 8.1 para compartir. Algunos problemas con Windows 10
 	- Versión 7.9 para compartir. Estable para Windows 10
 	- Herramientas principales: ISIS y ARES
@@ -61,16 +61,16 @@ Softwares
 	- Permite ver una visualización 3D de la placa con sus componentes.
 
 *mikroC para dsPIC*
-	- Compilador C para dsPIC
+	- Compilador C para dsPIC ( https://www.mikroe.com/mikroc-dspicpic24 )
 	- Incluye bibliotecas de programación
-	- Última versión 7.1.0 (mayo de 2018)
+	- Última versión 7.1.0
 	- Desarrollado por MikroElektronika ( https://www.mikroe.com/mikroc/#dspic )
 	- MikroElektronika también dispone de placas de desarrollo como la Easy dsPIC que disponemos en el Lab
 	
 *MATLAB*
 	- IDE con un lenguaje de programación propio.
 	- Simulación, matrices, algoritmos, GUI, DSP, ...
-	- Última versión R2020a (marzo de 2020).
+	- Última versión estable R2020a (marzo de 2020).
 
 Interrupciones
 --------------
