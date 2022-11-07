@@ -14,7 +14,7 @@ Aplicar filtros digitales
 
 - `Filtro de Butterworth <https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.butter.html>`_  
 
-- `Aquí otro proyecto ejemplo <https://github.com/cosimani/Curso-PIII-2022/blob/main/images/OtroEjemplo.rar>`_  
+- `Aquí otro proyecto ejemplo <https://github.com/cosimani/Curso-PIII-2022/blob/main/images/OtroEjemplo.rar?raw=true>`_  
 
 
 .. figure:: images/gui_otros_filtros.png
