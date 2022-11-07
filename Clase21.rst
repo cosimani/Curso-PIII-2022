@@ -16,6 +16,8 @@ Aplicar filtros digitales
 
 - `Aquí otro proyecto ejemplo <https://github.com/cosimani/Curso-PIII-2022/blob/main/images/OtroEjemplo.rar?raw=true>`_  
 
+- `Aquí un ejemplo en Colab <https://colab.research.google.com/drive/16t5LaaugTFQ0CETKtQ0V8E-niJARDo-t?usp=sharing>`_  
+
 
 .. figure:: images/gui_otros_filtros.png
 
